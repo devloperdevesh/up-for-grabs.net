@@ -1,0 +1,11 @@
+name: Modern Production Research
+desc: An enterprise-grade distributed resilience orchestration runtime and intelligence control plane engineered to mitigate cascading failures and maximize multi-tenant workload stability.
+site: https://github.com/devloperdevesh/Modern-Production-Research
+tags:
+  - python
+  - distributed-systems
+  - system-design
+  - backend
+upforgrabs:
+  name: good first issue
+  link: https://github.com/devloperdevesh/Modern-Production-Research/issues
